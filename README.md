@@ -1,6 +1,7 @@
 # ITD - Veliki projekat
 
-Veb sajt
+Veb stranica:
+https://itdivana.wordpress.com/
 
 Tema: Adobe Photoshop i Illustrator
 
@@ -10,3 +11,6 @@ Veb stranica sadrži:
 - stranicu za Illustrator
 - stranicu za Photoshop
 - stranicu sa novostima na kojoj je moguće objavljivati nove vijesti
+
+
+Na stranice još nije u potpunosti unesen sadržaj. Sajt ima responsibilan dizajn. 
