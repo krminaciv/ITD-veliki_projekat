@@ -1,1 +1,5 @@
-# ITD-veliki_projekat
+# ITD - Veliki projekat
+
+Veb sajt
+
+Tema: Adobe Photoshop i Illustrator
