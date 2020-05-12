@@ -1,7 +1,7 @@
 # ITD - Veliki projekat
 
 Veb stranica:
-https://itdivana.wordpress.com/
+http://psai.ga/
 
 Tema: Adobe Photoshop i Illustrator
 
